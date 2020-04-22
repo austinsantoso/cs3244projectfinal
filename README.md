@@ -1,4 +1,4 @@
-# cs3244projectfinal
+# CS3244 Project
 Repository for NUS CS3244 project. A model to predict the American Sign Language.
 Using a CNN model, we were able to create a model that can process images of the American Sign Language and predict what the image represents.
 Furthermore We were able to integrate a Live Testing/Prediction system. To test this live prediction see below.
