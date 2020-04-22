@@ -14,6 +14,9 @@ Make sure you have the following installed before running:
 # Live Testing
 Make use of your webcam to test the model using your own hand.
 
+A sample of how is should look like can be seen [here](https://drive.google.com/file/d/1KATodSKEMU0iRjJsmCY9JXik-bpW1k1X/view?usp=sharing)
+
+
 How to do this:
 1. Download the python notebook file 'ASL - Live Prediction.ipynb' located  [here](./model/)
 1. Alternatively clone this entire repository, and go to the open the model/ASL - Live Prediction.ipynd folder in Jupyter Notebook
